@@ -1,9 +1,7 @@
 # Overview
-This github repository contains source code for the following in-review
-article:
+This github repository contains source code for the following article published in Science Advances:
 
-Powell et al. -- Chemical Analyses of Uluburun Tin Ingots Show Confluence of
-Anatolian and Central Asian Metal Sources in Late Bronze Age Mediterranean
+Powell et al. -- Tin from Uluburun shipwreck shows small-scale commodity exchange fueled continental tin supply across Late Bronze Age Eurasia
 
 In particular, it provides the source code to recreate the tsne analysis (
 Figure 3) and the pairs plot (supplement). It contains one input file,
